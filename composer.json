@@ -1,0 +1,16 @@
+{
+    "name": "dong/api",
+    "description": "dong ccomposer",
+    "authors": [
+        {
+            "name": "dongjiawei",
+            "email": "djwjiawei@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dapi\\" : "./src"
+        }
+    }
+}
