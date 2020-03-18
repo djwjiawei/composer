@@ -7,7 +7,7 @@
             "email": "djwjiawei@163.com"
         }
     ],
-    "require": {
+    "require-dev": {
         "easyswoole/swoole-ide-helper": "dev-master"
     },
     "autoload": {
