@@ -7,7 +7,9 @@
             "email": "djwjiawei@163.com"
         }
     ],
-    "require": {},
+    "require": {
+        "easyswoole/swoole-ide-helper": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "Dapi\\" : "./src"
